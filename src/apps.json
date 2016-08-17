@@ -3980,6 +3980,14 @@
 			"script": "cdn\\.livechatinc\\.com/.*tracking\\.js",
 			"website": "livechatinc.com"
 		},
+		"LiveChat": {
+			"cats": [
+				52
+			],
+			"icon": "LiveChat.png",
+			"script": "cdn\\.livechatinc\\.com/.*tracking\\.js",
+			"website": "livechatinc.com"
+		},
 		"LiveJournal": {
 			"cats": [
 				11
